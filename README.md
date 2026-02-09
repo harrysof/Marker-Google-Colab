@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25171570/README.md)
 # Marker PDF Converter - Google Colab Notebook
 
 A ready-to-use Google Colab notebook for converting PDFs and other documents to Markdown using [Marker](https://github.com/VikParuchuri/marker).
